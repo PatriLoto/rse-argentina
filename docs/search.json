@@ -14,13 +14,6 @@
     "text": "📚 A not-so-brief history of Research Software Engineers - Una historia no tan breve de la ingeniería de software de investigación por el Software Sustainability Institute\n🎓 Good Enough Practices in Scientific Computing - Lección sobre buenas prácticas para computación científica por The Carpentries\n📖 Good enough practices in scientific computing - Paper fundamental sobre buenas prácticas en computación científica\n\n\n\n\n\n🐍 Scientific Python Tutorials - Tutoriales de Python Científico\n📊 R for Data Science - Libro sobre R para Ciencia de datos\n🔧 Research Software Engineering with Python - Curso completo de Ingeniería de Software de investigación con python por el Alan Turing Institute\n📦 Reproducible Research in R - Investigación rerpoducible en R por rOpenSci\n📖 Intro a la programación - Curso introductorio de programación totalmente en español\n📖 Material de entrenamiento del programa de campeones de rOpenSci - Incluye diferentes tópicos como Git, desarrollo de paquetes, revisión de software, entre otros."
   },
   {
-    "objectID": "recursos.html#materiales-de-rse-argentina",
-    "href": "recursos.html#materiales-de-rse-argentina",
-    "title": "Recursos",
-    "section": "Materiales de RSE Argentina",
-    "text": "Materiales de RSE Argentina\n\nVideo de encuentro con comunidades amigas\n\n\nPresentaciones: ¡PROXIMAMENTE!"
-  },
-  {
     "objectID": "recursos.html#contribuir-recursos",
     "href": "recursos.html#contribuir-recursos",
     "title": "Recursos",
@@ -105,11 +98,11 @@
     "text": "👉 Sumate a nuestros encuentros gratuitos desde luma.com/RSE_Argentina y sé parte de la comunidad\n\n\n\n\nFecha\nEncuentro\nExpositora\nMateriales\n\n\n\n\n2026-03-26\nCode Peer Review en la práctica: cómo revisamos código en proyectos abiertos\nYanina Bellini Saibene\nGrabación"
   },
   {
-    "objectID": "actividades.html#próximamente",
-    "href": "actividades.html#próximamente",
-    "title": "Agenda 2026",
+    "objectID": "actividades.html#agenda-2026",
+    "href": "actividades.html#agenda-2026",
+    "title": "Encuentros RSE Argentina",
     "section": "",
-    "text": "Estamos trabajando en la agenda de actividades para este año. Nuestro objetivo es crear espacios de formación y encuentro para la comunidad de RSE en Argentina."
+    "text": "👉 Sumate a nuestros encuentros gratuitos desde luma.com/RSE_Argentina y sé parte de la comunidad\n\n\n\n\nFecha\nEncuentro\nExpositora\nMateriales\n\n\n\n\n2026-03-26\nCode Peer Review en la práctica: cómo revisamos código en proyectos abiertos\nYanina Bellini Saibene\nGrabación"
   },
   {
     "objectID": "coc.html",
@@ -133,27 +126,6 @@
     "text": "RSE Argentina es una iniciativa comunitaria coordinada por un equipo de voluntarias comprometidas con visibilizar y fortalecer el rol de las personas encargadas de desarrollar software de investigación.\n\n\n\n\nCoordinadora\nLicenciada en sistemas de Información recibida en la UNNE, actualmente cursando un máster en Tecnologías de la Información, con varios años de experiencia en distintos roles técnicos, helpdesk, analista funcional, diseño de base de datos y desarrolladora de software. Apasionada por el código reproducible y la ciencia abierta.\n📧 patricia.andrea.loto@gmail.com | GitHub | LinkedIn\n\n\n\n\n\n\nCoordinadora\nSocióloga & Analista de Estadísticas de Población. Especialista en el procesamiento de grandes volúmenes de datos. Mi enfoque combina las Ciencias Sociales con el desarrollo de software científico, aplicando metodologías de reproducibilidad para garantizar el rigor técnico en la investigación social abierta.\n📧 andrea@rladies.org | GitHub | LinkedIn\n\n\n\n\n\n\n\n\n\nColaboradora\nDoctora en Ciencias Éticas, Humanísticas y Sociales Médicas (UBA) e Investigadora en psicología cognitiva en CONICET. Especialista en estadística aplicada a las ciencias de la salud (UBA). Promuevo activamente la ciencia abierta y el desarrollo de herramientas abiertas a través de mi participación en equipos de investigación y en comunidades de práctica.\n📧 jformoso@conicet.gov.ar | GitHub | LinkedIn"
   },
   {
-    "objectID": "quienes-somos.html#rse-argentina-cuenta-con-una-red-de-comunidades-amigas",
-    "href": "quienes-somos.html#rse-argentina-cuenta-con-una-red-de-comunidades-amigas",
-    "title": "Quiénes Somos",
-    "section": "RSE Argentina cuenta con una red de comunidades amigas:",
-    "text": "RSE Argentina cuenta con una red de comunidades amigas:\n\nRSE en Chile\nR-Ladies Resistencia-Corrientes\nR en Buenos Aires\nRSECon25: Por la inspiración y conectarnos con la comunidad global\nRSE Chile: Por ser pioneros en la región"
-  },
-  {
-    "objectID": "quienes-somos.html#historia",
-    "href": "quienes-somos.html#historia",
-    "title": "Quiénes Somos",
-    "section": "Historia",
-    "text": "Historia\nLa idea de formar la comunidad de RSE en Argentina surgió durante la conferencia de Software de Investigación RSECon25, realizada en Warwick en septiembre de 2025. Gracias a una beca para asistir, pudimos conocer de cerca la experiencia de la comunidad RSE a nivel internacional. Inspiradas por iniciativas similares en otros países, y considerando que en nuestra región solo existe actualmente un grupo, decidimos crear un espacio para:\n\nCompartir experiencias y desafíos comunes\nPromover el reconocimiento del trabajo del sesarrollador de software científico\nEstablecer conexiones con la red internacional de RSE\n\n\nHitos importantes\n\nSeptiembre 2025\nIdeas y sinergia para crear el grupo en Argentina después de participar en la RSECon25\n\n\nOctubre 2025\n#IntlRSEday: celebramos el día internacional del software de investigación - Charla inicial organizada entre RSE Chile, R en Buenos Aires, R-Ladies Resistencia-Corrientes y R-Ladies de Chile, comunidades amigas que se unieron para dar a conocer sobre RSE en nuestra región y en nuestro idioma.\nEste fue un primer encuentro abierto regional, un antecedente clave para lo que luego daría origen a la comunidad de RSE en Argentina.\n\n\n\n\nEnero 2026\nLanzamiento oficial de la comunidad de práctica y del sitio web\n\n\nAbril - Julio 2026\nSerie de Charlas sobre Software de Investigación"
-  },
-  {
-    "objectID": "quienes-somos.html#agradecimientos",
-    "href": "quienes-somos.html#agradecimientos",
-    "title": "Quiénes Somos",
-    "section": "Agradecimientos",
-    "text": "Agradecimientos\nAgradecemos a:\n\nRSECon25: Por la inspiración y conectarnos con la comunidad global\nRSE Chile: Por su empuje y colaboración regional"
-  },
-  {
     "objectID": "quienes-somos.html#gobernanza",
     "href": "quienes-somos.html#gobernanza",
     "title": "Quiénes Somos",
@@ -161,11 +133,11 @@
     "text": "Gobernanza\nRSE Argentina funciona como una comunidad horizontal con decisiones tomadas por consenso. Nuestros principios son:\n\nInclusión: Todas las personas interesadas en la temática son bienvenidas sin importar su nivel o experiencia\nColaboración: Compartimos conocimientos abiertamente\nDiversidad: Valoramos diferentes perspectivas y experiencias"
   },
   {
-    "objectID": "actividades.html#agenda-2026",
-    "href": "actividades.html#agenda-2026",
-    "title": "Encuentros RSE Argentina",
-    "section": "",
-    "text": "👉 Sumate a nuestros encuentros gratuitos desde luma.com/RSE_Argentina y sé parte de la comunidad\n\n\n\n\nFecha\nEncuentro\nExpositora\nMateriales\n\n\n\n\n2026-03-26\nCode Peer Review en la práctica: cómo revisamos código en proyectos abiertos\nYanina Bellini Saibene\nGrabación"
+    "objectID": "quienes-somos.html#historia",
+    "href": "quienes-somos.html#historia",
+    "title": "Quiénes Somos",
+    "section": "Historia",
+    "text": "Historia\nLa idea de formar la comunidad de RSE en Argentina surgió durante la conferencia de Software de Investigación RSECon25, realizada en Warwick en septiembre de 2025. Gracias a una beca para asistir, pudimos conocer de cerca la experiencia de la comunidad RSE a nivel internacional. Inspiradas por iniciativas similares en otros países, y considerando que en nuestra región solo existe actualmente un grupo, decidimos crear un espacio para:\n\nCompartir experiencias y desafíos comunes\nPromover el reconocimiento del trabajo del sesarrollador de software científico\nEstablecer conexiones con la red internacional de RSE\n\n\nHitos importantes\n\nSeptiembre 2025\nIdeas y sinergia para crear el grupo en Argentina después de participar en la RSECon25\n\n\nOctubre 2025\n#IntlRSEday: celebramos el día internacional del software de investigación - Charla inicial organizada entre RSE Chile, R en Buenos Aires, R-Ladies Resistencia-Corrientes y R-Ladies de Chile, comunidades amigas que se unieron para dar a conocer sobre RSE en nuestra región y en nuestro idioma.\nEste fue un primer encuentro abierto regional, un antecedente clave para lo que luego daría origen a la comunidad de RSE en Argentina.\n\n\n\n\nEnero 2026\nLanzamiento oficial de la comunidad de práctica y del sitio web\n\n\nAbril - Julio 2026\nSerie de Charlas sobre Software de Investigación"
   },
   {
     "objectID": "quienes-somos.html#red-de-comunidades-amigas",
