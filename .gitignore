@@ -2,7 +2,7 @@
 /.quarto/
 /_site/
 *.qmd~
-*.html
+
 
 # R
 .Rhistory
